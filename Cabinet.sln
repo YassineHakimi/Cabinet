@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabinetCore", "CabinetCore\CabinetCore.csproj", "{EB8B39E5-36C7-4D32-B50D-B2861E8CED05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabinetConsole", "CabinetConsole\CabinetConsole.csproj", "{744A85EE-2C44-4C9C-8122-861B934C37E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EB8B39E5-36C7-4D32-B50D-B2861E8CED05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8B39E5-36C7-4D32-B50D-B2861E8CED05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8B39E5-36C7-4D32-B50D-B2861E8CED05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744A85EE-2C44-4C9C-8122-861B934C37E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744A85EE-2C44-4C9C-8122-861B934C37E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744A85EE-2C44-4C9C-8122-861B934C37E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744A85EE-2C44-4C9C-8122-861B934C37E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
